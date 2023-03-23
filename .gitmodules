@@ -8,3 +8,8 @@
 	url = https://github.com/aaamini/nett
 	shallow = true
 	registered = true
+[submodule "sbmSDP"]
+	path = sbmSDP
+	url = https://github.com/cran/sbmSDP
+	shallow = true
+	registered = true
